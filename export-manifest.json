@@ -1,0 +1,209 @@
+{
+  "generatedAt": "2026-10-13T15:16:19.815Z",
+  "source": "http://university-news-hub.ddev.site:33000",
+  "seeds": [
+    "/",
+    "/news",
+    "/events"
+  ],
+  "pages": [
+    {
+      "source": "/",
+      "file": "index.html"
+    },
+    {
+      "source": "/news",
+      "file": "news/index.html"
+    },
+    {
+      "source": "/events",
+      "file": "events/index.html"
+    },
+    {
+      "source": "/home",
+      "file": "home/index.html"
+    },
+    {
+      "source": "/node/1",
+      "file": "node/1/index.html"
+    },
+    {
+      "source": "/taxonomy/term/17",
+      "file": "taxonomy/term/17/index.html"
+    },
+    {
+      "source": "/node/14",
+      "file": "node/14/index.html"
+    },
+    {
+      "source": "/taxonomy/term/6",
+      "file": "taxonomy/term/6/index.html"
+    },
+    {
+      "source": "/node/2",
+      "file": "node/2/index.html"
+    },
+    {
+      "source": "/taxonomy/term/1",
+      "file": "taxonomy/term/1/index.html"
+    },
+    {
+      "source": "/node/3",
+      "file": "node/3/index.html"
+    },
+    {
+      "source": "/taxonomy/term/2",
+      "file": "taxonomy/term/2/index.html"
+    },
+    {
+      "source": "/node/4",
+      "file": "node/4/index.html"
+    },
+    {
+      "source": "/taxonomy/term/3",
+      "file": "taxonomy/term/3/index.html"
+    },
+    {
+      "source": "/node/5",
+      "file": "node/5/index.html"
+    },
+    {
+      "source": "/node/6",
+      "file": "node/6/index.html"
+    },
+    {
+      "source": "/node/7",
+      "file": "node/7/index.html"
+    },
+    {
+      "source": "/taxonomy/term/11",
+      "file": "taxonomy/term/11/index.html"
+    },
+    {
+      "source": "/node/8",
+      "file": "node/8/index.html"
+    },
+    {
+      "source": "/node/15",
+      "file": "node/15/index.html"
+    },
+    {
+      "source": "/taxonomy/term/12",
+      "file": "taxonomy/term/12/index.html"
+    },
+    {
+      "source": "/node/9",
+      "file": "node/9/index.html"
+    },
+    {
+      "source": "/taxonomy/term/13",
+      "file": "taxonomy/term/13/index.html"
+    },
+    {
+      "source": "/node/10",
+      "file": "node/10/index.html"
+    },
+    {
+      "source": "/taxonomy/term/15",
+      "file": "taxonomy/term/15/index.html"
+    },
+    {
+      "source": "/node/12",
+      "file": "node/12/index.html"
+    },
+    {
+      "source": "/taxonomy/term/4",
+      "file": "taxonomy/term/4/index.html"
+    },
+    {
+      "source": "/taxonomy/term/16",
+      "file": "taxonomy/term/16/index.html"
+    },
+    {
+      "source": "/node/13",
+      "file": "node/13/index.html"
+    },
+    {
+      "source": "/taxonomy/term/5",
+      "file": "taxonomy/term/5/index.html"
+    },
+    {
+      "source": "/taxonomy/term/7",
+      "file": "taxonomy/term/7/index.html"
+    },
+    {
+      "source": "/taxonomy/term/8",
+      "file": "taxonomy/term/8/index.html"
+    },
+    {
+      "source": "/taxonomy/term/9",
+      "file": "taxonomy/term/9/index.html"
+    },
+    {
+      "source": "/taxonomy/term/10",
+      "file": "taxonomy/term/10/index.html"
+    }
+  ],
+  "assets": [
+    {
+      "source": "/core/misc/favicon.ico",
+      "file": "core/misc/favicon.ico",
+      "contentType": "image/x-icon"
+    },
+    {
+      "source": "/sites/default/files/css/css_2QWKztT2IKaXngnQjqS7fsGdjB8hSSiqvk7SMkPrPlY.css?delta=0&amp;language=en&amp;theme=westbrook&amp;include=eJwrriwuSc3VT0osTtUpy0wtL9YHk3q5-SmlOak65anFJUlF-fnZ-uk5-UmJOQC9ThKH",
+      "file": "sites/default/files/css/css_2QWKztT2IKaXngnQjqS7fsGdjB8hSSiqvk7SMkPrPlY.css",
+      "contentType": "text/css"
+    },
+    {
+      "source": "/sites/default/files/css/css_A4EbA5TszLuWGy8NWGSMQcgYzTS-D63tT-MXe--xPRs.css?delta=1&amp;language=en&amp;theme=westbrook&amp;include=eJwrriwuSc3VT0osTtUpy0wtL9YHk3q5-SmlOak65anFJUlF-fnZ-uk5-UmJOQC9ThKH",
+      "file": "sites/default/files/css/css_A4EbA5TszLuWGy8NWGSMQcgYzTS-D63tT-MXe--xPRs.css",
+      "contentType": "text/css"
+    },
+    {
+      "source": "/sites/default/files/demo/campus-hero.png",
+      "file": "sites/default/files/demo/campus-hero.png",
+      "contentType": "image/png"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/demo/cancer-research.png.avif?itok=31WV2Iqr",
+      "file": "sites/default/files/styles/large/public/demo/cancer-research.png.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/demo/student-robotics.png.avif?itok=xBYTQBXC",
+      "file": "sites/default/files/styles/large/public/demo/student-robotics.png.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/demo/faculty-professor.png.avif?itok=2yW1GSlk",
+      "file": "sites/default/files/styles/large/public/demo/faculty-professor.png.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/demo/campus-hero.png.avif?itok=f7Wmfoj6",
+      "file": "sites/default/files/styles/large/public/demo/campus-hero.png.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/js/js_ut1a6gcsEQhI-XKhgTFQvyb1_ONC56JUOsj5C6mG9rI.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=westbrook&amp;include=eJwrTy0uSSrKz8_WT8_JT0rMAQA4iwaB",
+      "file": "sites/default/files/js/js_ut1a6gcsEQhI-XKhgTFQvyb1_ONC56JUOsj5C6mG9rI.js",
+      "contentType": "text/javascript"
+    },
+    {
+      "source": "/sites/default/files/css/css_ylkzm0GXns0Ht_8GUqep3r5i6IpwVgH2pWYcJ7lpIaE.css?delta=0&amp;language=en&amp;theme=westbrook&amp;include=eJwrriwuSc3VT0osTtUpTy0uSSrKz8_WT8_JT0rMAQCiagsc",
+      "file": "sites/default/files/css/css_ylkzm0GXns0Ht_8GUqep3r5i6IpwVgH2pWYcJ7lpIaE.css",
+      "contentType": "text/css"
+    },
+    {
+      "source": "/sites/default/files/css/css_A4EbA5TszLuWGy8NWGSMQcgYzTS-D63tT-MXe--xPRs.css?delta=1&amp;language=en&amp;theme=westbrook&amp;include=eJwrriwuSc3VT0osTtUpTy0uSSrKz8_WT8_JT0rMAQCiagsc",
+      "file": "sites/default/files/css/css_A4EbA5TszLuWGy8NWGSMQcgYzTS-D63tT-MXe--xPRs.css",
+      "contentType": "text/css"
+    }
+  ],
+  "failures": [],
+  "limits": {
+    "maxPages": 1000,
+    "timeoutMs": 30000
+  }
+}
