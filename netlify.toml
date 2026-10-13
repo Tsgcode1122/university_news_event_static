@@ -1,0 +1,30 @@
+[build]
+  publish = "."
+
+[build.processing.html]
+  pretty_urls = true
+
+[[redirects]]
+  from = "/admin/*"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/user/*"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/node/add/*"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/sites/default/files/private/*"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/system/files/*"
+  to = "/404.html"
+  status = 404

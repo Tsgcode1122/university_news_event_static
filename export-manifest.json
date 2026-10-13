@@ -1,0 +1,388 @@
+{
+  "generatedAt": "2026-10-13T15:55:24.014Z",
+  "source": "http://university-news-drupal.ddev.site:33000",
+  "seeds": [
+    "/",
+    "/home",
+    "/news",
+    "/events",
+    "/announcements",
+    "/spotlights"
+  ],
+  "pages": [
+    {
+      "source": "/",
+      "file": "index.html"
+    },
+    {
+      "source": "/home",
+      "file": "home/index.html"
+    },
+    {
+      "source": "/news",
+      "file": "news/index.html"
+    },
+    {
+      "source": "/events",
+      "file": "events/index.html"
+    },
+    {
+      "source": "/announcements",
+      "file": "announcements/index.html"
+    },
+    {
+      "source": "/spotlights",
+      "file": "spotlights/index.html"
+    },
+    {
+      "source": "/search/node",
+      "file": "search/node/index.html"
+    },
+    {
+      "source": "/college-of-nursing-receives-1-5-million-research-grant-13",
+      "file": "college-of-nursing-receives-1-5-million-research-grant-13/index.html"
+    },
+    {
+      "source": "/taxonomy/term/7",
+      "file": "taxonomy/term/7/index.html"
+    },
+    {
+      "source": "/taxonomy/term/2",
+      "file": "taxonomy/term/2/index.html"
+    },
+    {
+      "source": "/students-win-national-technology-innovation-competition-14",
+      "file": "students-win-national-technology-innovation-competition-14/index.html"
+    },
+    {
+      "source": "/taxonomy/term/8",
+      "file": "taxonomy/term/8/index.html"
+    },
+    {
+      "source": "/taxonomy/term/1",
+      "file": "taxonomy/term/1/index.html"
+    },
+    {
+      "source": "/university-launches-new-center-for-artificial-intelligence-research-12",
+      "file": "university-launches-new-center-for-artificial-intelligence-research-12/index.html"
+    },
+    {
+      "source": "/taxonomy/term/11",
+      "file": "taxonomy/term/11/index.html"
+    },
+    {
+      "source": "/taxonomy/term/4",
+      "file": "taxonomy/term/4/index.html"
+    },
+    {
+      "source": "/advancing-healthcare-through-nursing-research",
+      "file": "advancing-healthcare-through-nursing-research/index.html"
+    },
+    {
+      "source": "/from-classroom-to-innovation-maya-johnson-s-research-journey",
+      "file": "from-classroom-to-innovation-maya-johnson-s-research-journey/index.html"
+    },
+    {
+      "source": "/advancing-healthcare-through-nursing-research-7",
+      "file": "advancing-healthcare-through-nursing-research-7/index.html"
+    },
+    {
+      "source": "/taxonomy/term/3",
+      "file": "taxonomy/term/3/index.html"
+    },
+    {
+      "source": "/university-launches-new-center-for-artificial-intelligence-research",
+      "file": "university-launches-new-center-for-artificial-intelligence-research/index.html"
+    },
+    {
+      "source": "/taxonomy/term/6",
+      "file": "taxonomy/term/6/index.html"
+    },
+    {
+      "source": "/college-of-nursing-receives-1-5-million-research-grant",
+      "file": "college-of-nursing-receives-1-5-million-research-grant/index.html"
+    },
+    {
+      "source": "/students-win-national-technology-innovation-competition",
+      "file": "students-win-national-technology-innovation-competition/index.html"
+    },
+    {
+      "source": "/taxonomy/term/9",
+      "file": "taxonomy/term/9/index.html"
+    },
+    {
+      "source": "/creating-more-accessible-digital-experiences",
+      "file": "creating-more-accessible-digital-experiences/index.html"
+    },
+    {
+      "source": "/taxonomy/term/5",
+      "file": "taxonomy/term/5/index.html"
+    },
+    {
+      "source": "/building-connections-beyond-the-classroom",
+      "file": "building-connections-beyond-the-classroom/index.html"
+    },
+    {
+      "source": "/search/node/help",
+      "file": "search/node/help/index.html"
+    },
+    {
+      "source": "/node/13",
+      "file": "node/13/index.html"
+    },
+    {
+      "source": "/community-health-and-wellness-workshop",
+      "file": "community-health-and-wellness-workshop/index.html"
+    },
+    {
+      "source": "/node/14",
+      "file": "node/14/index.html"
+    },
+    {
+      "source": "/technology-innovation-career-fair-16",
+      "file": "technology-innovation-career-fair-16/index.html"
+    },
+    {
+      "source": "/career-fair-registration-now-open-for-students",
+      "file": "career-fair-registration-now-open-for-students/index.html"
+    },
+    {
+      "source": "/technology-innovation-career-fair",
+      "file": "technology-innovation-career-fair/index.html"
+    },
+    {
+      "source": "/node/12",
+      "file": "node/12/index.html"
+    },
+    {
+      "source": "/node/6",
+      "file": "node/6/index.html"
+    },
+    {
+      "source": "/node/15",
+      "file": "node/15/index.html"
+    },
+    {
+      "source": "/node/7",
+      "file": "node/7/index.html"
+    },
+    {
+      "source": "/artificial-intelligence-and-the-future-of-higher-education",
+      "file": "artificial-intelligence-and-the-future-of-higher-education/index.html"
+    },
+    {
+      "source": "/node/1",
+      "file": "node/1/index.html"
+    },
+    {
+      "source": "/node/2",
+      "file": "node/2/index.html"
+    },
+    {
+      "source": "/node/3",
+      "file": "node/3/index.html"
+    },
+    {
+      "source": "/node/19",
+      "file": "node/19/index.html"
+    },
+    {
+      "source": "/campus-network-maintenance-scheduled-for-september-12",
+      "file": "campus-network-maintenance-scheduled-for-september-12/index.html"
+    },
+    {
+      "source": "/fall-2026-course-registration-deadline",
+      "file": "fall-2026-course-registration-deadline/index.html"
+    },
+    {
+      "source": "/node/8",
+      "file": "node/8/index.html"
+    },
+    {
+      "source": "/node/18",
+      "file": "node/18/index.html"
+    },
+    {
+      "source": "/taxonomy/term/16",
+      "file": "taxonomy/term/16/index.html"
+    },
+    {
+      "source": "/node/16",
+      "file": "node/16/index.html"
+    },
+    {
+      "source": "/taxonomy/term/12",
+      "file": "taxonomy/term/12/index.html"
+    },
+    {
+      "source": "/node/11",
+      "file": "node/11/index.html"
+    },
+    {
+      "source": "/node/4",
+      "file": "node/4/index.html"
+    },
+    {
+      "source": "/taxonomy/term/13",
+      "file": "taxonomy/term/13/index.html"
+    },
+    {
+      "source": "/node/17",
+      "file": "node/17/index.html"
+    },
+    {
+      "source": "/taxonomy/term/17",
+      "file": "taxonomy/term/17/index.html"
+    },
+    {
+      "source": "/node/9",
+      "file": "node/9/index.html"
+    },
+    {
+      "source": "/node/5",
+      "file": "node/5/index.html"
+    }
+  ],
+  "assets": [
+    {
+      "source": "/core/misc/favicon.ico",
+      "file": "core/misc/favicon.ico",
+      "contentType": "image/x-icon"
+    },
+    {
+      "source": "/sites/default/files/css/css_2uyW9ngW8rf_CcutZJ42ob2LJRu8nFuEsop_SfgzWow.css?delta=0&amp;language=en&amp;theme=university_hub&amp;include=eJwrriwuSc3VT0osTtUpzcssSy0qziypjM8oTdJPz8lPSszRLS6pzMnMS9cpy0wtL9YHk3q5-SmlOakA2xUX3g",
+      "file": "sites/default/files/css/css_2uyW9ngW8rf_CcutZJ42ob2LJRu8nFuEsop_SfgzWow.css",
+      "contentType": "text/css"
+    },
+    {
+      "source": "/sites/default/files/css/css_inBH3wUHkDLy8yMVxAkr5b-vvJSyWQfUZC6ajPvfj68.css?delta=1&amp;language=en&amp;theme=university_hub&amp;include=eJwrriwuSc3VT0osTtUpzcssSy0qziypjM8oTdJPz8lPSszRLS6pzMnMS9cpy0wtL9YHk3q5-SmlOakA2xUX3g",
+      "file": "sites/default/files/css/css_inBH3wUHkDLy8yMVxAkr5b-vvJSyWQfUZC6ajPvfj68.css",
+      "contentType": "text/css"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/2026-09/hero-cnr.jpg.avif?itok=uH0uv8QX",
+      "file": "sites/default/files/styles/large/public/2026-09/hero-cnr.jpg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/2026-09/images%20%281%29.jpeg.avif?itok=hBQOGxzl",
+      "file": "sites/default/files/styles/large/public/2026-09/images (1).jpeg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/2026-09/images.jpeg.avif?itok=ryDfNfrB",
+      "file": "sites/default/files/styles/large/public/2026-09/images.jpeg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/2026-09/images%20%282%29.jpeg.avif?itok=BP3Ja5Uu",
+      "file": "sites/default/files/styles/large/public/2026-09/images (2).jpeg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/2026-09/istockphoto-2168822126-612x612.jpg.avif?itok=IsLNvY04",
+      "file": "sites/default/files/styles/large/public/2026-09/istockphoto-2168822126-612x612.jpg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/2026-09/Screenshot%202026-08-31%20at%207.52.02%E2%80%AFPM.png.avif?itok=ZwEyMHH8",
+      "file": "sites/default/files/styles/large/public/2026-09/Screenshot 2026-08-31 at 7.52.02 PM.png.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/2026-09/images%20%283%29.jpeg.avif?itok=KssY6B0i",
+      "file": "sites/default/files/styles/large/public/2026-09/images (3).jpeg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/themes/custom/university_hub/images/campus-hero.png",
+      "file": "themes/custom/university_hub/images/campus-hero.png",
+      "contentType": "image/png"
+    },
+    {
+      "source": "/sites/default/files/css/css_e3Q69YwUCZ-u9Pu7LMi1VVaGT8HHWL000dfnN39jASI.css?delta=0&amp;language=en&amp;theme=university_hub&amp;include=eJwNxtsNgDAIAMCFWhnJgJJKgq3hYcL2el93LGM4LR_UTYLvruLRvPw_EDq3nPKyuUTtVxIMXYTaPUpljg8Q_RjF",
+      "file": "sites/default/files/css/css_e3Q69YwUCZ-u9Pu7LMi1VVaGT8HHWL000dfnN39jASI.css",
+      "contentType": "text/css; charset=utf-8"
+    },
+    {
+      "source": "/sites/default/files/css/css_inBH3wUHkDLy8yMVxAkr5b-vvJSyWQfUZC6ajPvfj68.css?delta=1&amp;language=en&amp;theme=university_hub&amp;include=eJwNxtsNgDAIAMCFWhnJgJJKgq3hYcL2el93LGM4LR_UTYLvruLRvPw_EDq3nPKyuUTtVxIMXYTaPUpljg8Q_RjF",
+      "file": "sites/default/files/css/css_inBH3wUHkDLy8yMVxAkr5b-vvJSyWQfUZC6ajPvfj68.css",
+      "contentType": "text/css"
+    },
+    {
+      "source": "/sites/default/files/css/css_rZ7aX7YGQsfg0n0611NGMMGNs-qbWQs2zTiOimnzk3g.css?delta=0&amp;language=en&amp;theme=university_hub&amp;include=eJwrriwuSc3VT0osTtUpzcssSy0qziypjM8oTdJPz8lPSszRLS6pzMnMSwcAWhMQcw",
+      "file": "sites/default/files/css/css_rZ7aX7YGQsfg0n0611NGMMGNs-qbWQs2zTiOimnzk3g.css",
+      "contentType": "text/css; charset=utf-8"
+    },
+    {
+      "source": "/sites/default/files/css/css_inBH3wUHkDLy8yMVxAkr5b-vvJSyWQfUZC6ajPvfj68.css?delta=1&amp;language=en&amp;theme=university_hub&amp;include=eJwrriwuSc3VT0osTtUpzcssSy0qziypjM8oTdJPz8lPSszRLS6pzMnMSwcAWhMQcw",
+      "file": "sites/default/files/css/css_inBH3wUHkDLy8yMVxAkr5b-vvJSyWQfUZC6ajPvfj68.css",
+      "contentType": "text/css"
+    },
+    {
+      "source": "/sites/default/files/styles/thumbnail/public/2026-09/images%20%281%29.jpeg.avif?itok=N5nAIl8j",
+      "file": "sites/default/files/styles/thumbnail/public/2026-09/images (1).jpeg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/thumbnail/public/2026-09/images.jpeg.avif?itok=DJjhTvvT",
+      "file": "sites/default/files/styles/thumbnail/public/2026-09/images.jpeg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/thumbnail/public/2026-09/hero-cnr.jpg.avif?itok=SsDKQ-7u",
+      "file": "sites/default/files/styles/thumbnail/public/2026-09/hero-cnr.jpg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/thumbnail/public/2026-09/images%20%283%29.jpeg.avif?itok=Gjrc9edJ",
+      "file": "sites/default/files/styles/thumbnail/public/2026-09/images (3).jpeg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/thumbnail/public/2026-09/istockphoto-2168822126-612x612.jpg.avif?itok=JCxR-qjT",
+      "file": "sites/default/files/styles/thumbnail/public/2026-09/istockphoto-2168822126-612x612.jpg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/thumbnail/public/2026-09/Screenshot%202026-08-31%20at%207.52.02%E2%80%AFPM.png.avif?itok=pTTX9HGU",
+      "file": "sites/default/files/styles/thumbnail/public/2026-09/Screenshot 2026-08-31 at 7.52.02 PM.png.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/2026-09/skillswrkshp1.jpg.avif?itok=fHkVo7IZ",
+      "file": "sites/default/files/styles/large/public/2026-09/skillswrkshp1.jpg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/thumbnail/public/2026-09/1000w_q95.webp.avif?itok=LvYatzrB",
+      "file": "sites/default/files/styles/thumbnail/public/2026-09/1000w_q95.webp.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/thumbnail/public/2026-09/20230927_TLW_CareerFair03011-main.jpg.avif?itok=xoK_WvVB",
+      "file": "sites/default/files/styles/thumbnail/public/2026-09/20230927_TLW_CareerFair03011-main.jpg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/2026-09/20230927_TLW_CareerFair03011-main.jpg.avif?itok=qM8L3BrB",
+      "file": "sites/default/files/styles/large/public/2026-09/20230927_TLW_CareerFair03011-main.jpg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/thumbnail/public/2026-09/skillswrkshp1.jpg.avif?itok=4Uen10dX",
+      "file": "sites/default/files/styles/thumbnail/public/2026-09/skillswrkshp1.jpg.avif",
+      "contentType": "image/avif"
+    },
+    {
+      "source": "/sites/default/files/styles/large/public/2026-09/1000w_q95.webp.avif?itok=TJC-uecp",
+      "file": "sites/default/files/styles/large/public/2026-09/1000w_q95.webp.avif",
+      "contentType": "image/avif"
+    }
+  ],
+  "failures": [],
+  "limits": {
+    "maxPages": 1000,
+    "timeoutMs": 30000
+  }
+}

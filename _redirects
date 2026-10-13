@@ -1,0 +1,5 @@
+/admin/* /404.html 404
+/user/* /404.html 404
+/node/add/* /404.html 404
+/sites/default/files/private/* /404.html 404
+/system/files/* /404.html 404
